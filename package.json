@@ -1,0 +1,7 @@
+{
+  "name": "Droper_Game",
+  "version": "1.0.0",
+  "description": "Drope Game With Images",
+  "main": "index.js",
+  "license": "MIT"
+}
